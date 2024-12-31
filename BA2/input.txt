@@ -1,0 +1,5 @@
+if True:
+	if False:
+		if True:
+			print("123")
+	print(123)

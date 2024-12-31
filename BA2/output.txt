@@ -1,0 +1,8 @@
+if(true) {
+	if(false) {
+		if(true) {
+			cout << "123" << endl;
+		}
+	}
+	cout << 123 << endl;
+}

@@ -1,0 +1,42 @@
+Push train 1 to holding track
+Current holding track: 1 
+Push train 2 to holding track
+Current holding track: 1 2 
+Push train 3 to holding track
+Current holding track: 1 2 3 
+Push train 4 to holding track
+Current holding track: 1 2 3 4 
+Train 5 passing through
+Moving train 4 from holding track
+Push train 6 to holding track
+Current holding track: 1 2 3 6 
+Push train 7 to holding track
+Current holding track: 1 2 3 6 7 
+Push train 8 to holding track
+Current holding track: 1 2 3 6 7 8 
+Push train 9 to holding track
+Current holding track: 1 2 3 6 7 8 9 
+Push train 10 to holding track
+Current holding track: 1 2 3 6 7 8 9 10 
+Push train 11 to holding track
+Current holding track: 1 2 3 6 7 8 9 10 11 
+Push train 12 to holding track
+Current holding track: 1 2 3 6 7 8 9 10 11 12 
+Push train 13 to holding track
+Current holding track: 1 2 3 6 7 8 9 10 11 12 13 
+Push train 14 to holding track
+Current holding track: 1 2 3 6 7 8 9 10 11 12 13 14 
+Push train 15 to holding track
+Current holding track: 1 2 3 6 7 8 9 10 11 12 13 14 15 
+Push train 16 to holding track
+Current holding track: 1 2 3 6 7 8 9 10 11 12 13 14 15 16 
+Push train 17 to holding track
+Current holding track: 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 
+Push train 18 to holding track
+Current holding track: 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 
+Push train 19 to holding track
+Current holding track: 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+Push train 20 to holding track
+Current holding track: 1 2 3 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+Error: Impossible to rearrange
+The first train in the holding track is train 20 instead of train 1
